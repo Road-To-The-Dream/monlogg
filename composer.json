@@ -1,4 +1,12 @@
 {
+    "name": "sushko/monolog",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "fhlbc2012@gmail.com"
+        }
+    ],
     "require": {
         "monolog/monolog": "^1.24"
     },
