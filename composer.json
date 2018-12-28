@@ -4,8 +4,16 @@
     },
     "repositories":[
         {
-            "type":"git",
-            "url":"https://github.com/Road-To-The-Dream/monlogg"
+            "type": "git",
+            "package": {
+                "name": "sushko/monolog",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/Road-To-The-Dream/monlogg",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
     ]
 }
