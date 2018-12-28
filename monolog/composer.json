@@ -1,0 +1,14 @@
+{
+    "name": "sergey/monolog",
+    "description": "TestMonolog",
+    "type": "ProjectMonolog",
+    "authors": [
+        {
+            "name": "Sergey Sushko",
+            "email": "fhlbc2012@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
+}

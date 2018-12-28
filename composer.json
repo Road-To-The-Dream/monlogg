@@ -1,0 +1,11 @@
+{
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/Road-To-The-Dream/monlogg"
+        }
+    ]
+}
